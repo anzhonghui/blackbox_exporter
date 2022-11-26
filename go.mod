@@ -1,4 +1,4 @@
-module github.com/prometheus/blackbox_exporter
+module github.com/anzhonghui/blackbox_exporter
 
 require (
 	github.com/alecthomas/units v0.0.0-20211218093645-b94a6e3cc137
