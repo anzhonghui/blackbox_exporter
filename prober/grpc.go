@@ -15,9 +15,9 @@ package prober
 
 import (
 	"context"
+	"github.com/anzhonghui/blackbox_exporter/config"
 	"github.com/go-kit/log"
 	"github.com/go-kit/log/level"
-	"github.com/prometheus/blackbox_exporter/config"
 	"github.com/prometheus/client_golang/prometheus"
 	pconfig "github.com/prometheus/common/config"
 	"google.golang.org/grpc"

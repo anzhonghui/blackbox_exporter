@@ -11,7 +11,7 @@ HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
 
 ### From binaries
 
-Download the most suitable binary from [the releases tab](https://github.com/prometheus/blackbox_exporter/releases)
+Download the most suitable binary from [the releases tab](https://github.com/anzhonghui/blackbox_exporter/releases)
 
 Then:
 
